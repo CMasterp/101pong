@@ -20,9 +20,9 @@ will be considered, located in the (Oxy) plane (which is defined by the equation
 only the motion of the ball will be considered, regardless of the context.
 
 Your program must print:
-• The velocity vector of the ball,
-• The coordinates of the ball after a given amount of time,
-• The angle at which the ball will hit the paddle (if it will actually hit it, at anytime from t = 0)
+- The velocity vector of the ball,
+- The coordinates of the ball after a given amount of time,
+- The angle at which the ball will hit the paddle (if it will actually hit it, at anytime from t = 0)
 
 ## Nao Marvin
 
