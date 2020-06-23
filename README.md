@@ -39,7 +39,7 @@ make
 Clone the repository and go inside. Then,
 
 ```
-make
+$ make
 ```
 
 ## Usage
