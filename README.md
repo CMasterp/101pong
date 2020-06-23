@@ -1,4 +1,4 @@
-# Pong - Vectors and video games [![Build Status])
+# Pong - Vectors and video games
 
 - **Binary name:** 101pong
 - **Repository name:** 101pong
