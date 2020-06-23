@@ -24,6 +24,12 @@ Your program must print:
 • The coordinates of the ball after a given amount of time,
 • The angle at which the ball will hit the paddle (if it will actually hit it, at anytime from t = 0)
 
+## Nao Marvin
+
+| Details      | Nao Marvin :robot: (%) |
+| ------------- |:-------------:|
+| `rigor`: 100% \| `vector`: 100% \| `trigonometry`: 100% \| `mathematical rigor`: 100% | 100% |
+
 ## Prerequisites
 
 What you need
