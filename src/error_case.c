@@ -5,6 +5,8 @@
 ** error_case
 */
 
+#include "../include/my.h"
+
 int error_case(char *ave)
 {
     int i = 1, j = 0, g = 0, k = 0, s = 0, q = 0;
